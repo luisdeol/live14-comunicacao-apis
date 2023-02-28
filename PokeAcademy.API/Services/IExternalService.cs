@@ -1,8 +1,4 @@
-using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Threading.Tasks;
-using PokeAcademy.API.Controllers;
+﻿using PokeAcademy.API.Controllers;
 using Refit;
 
 namespace PokeAcademy.API.Services

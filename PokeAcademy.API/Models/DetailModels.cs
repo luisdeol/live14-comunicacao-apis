@@ -272,7 +272,7 @@ namespace PokeAcademy.API.Models
         public string front_transparent { get; set; }
     }
 
-    public class Root
+    public class PokemonData
     {
         public List<Ability> abilities { get; set; }
         public int base_experience { get; set; }
